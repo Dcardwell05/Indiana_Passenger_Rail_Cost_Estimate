@@ -1,0 +1,568 @@
+Name,Type,County,State FIPS Code,Incorporated Area FIPS Code,Source,"Area (Square Miles, Calculated)",Estimated Population (2020),Estimated Population (2010),Estimated Population (2000),SHAPE__Length,SHAPE__Area
+Albion,Town,Noble County,18,820,2023 Data Harvest,1.894,"2,222","2,349","2,292",0.186,0.001
+Avilla,Town,Noble County,18,2872,2023 Data Harvest,1.688,"2,438","2,401","2,039",0.212,0
+Bargersville,Town,Johnson County,18,3394,2023 Data Harvest,18.717,"9,560","4,013","2,150",0.472,0.005
+Birdseye,Town,Dubois County,18,5374,2023 Data Harvest,0.648,417,416,465,0.058,0
+Cromwell,Town,Noble County,18,15994,2023 Data Harvest,0.32,487,512,419,0.056,0
+Brookville,Town,Franklin County,18,8182,2022 Data Harvest,1.452,"2,622","2,596","2,592",0.151,0
+Ferdinand,Town,Dubois County,18,22990,2023 Data Harvest,2.389,"2,157","2,157","2,275",0.223,0.001
+Prince's Lakes,Town,Johnson County,18,62028,2023 Data Harvest,1.513,"1,372","1,312","1,506",0.127,0
+Beech Grove,City,Marion County,18,4204,2022 Data Harvest,4.458,"14,717","14,192","14,200",0.216,0.001
+Franklin,City,Johnson County,18,25450,2023 Data Harvest,15.408,"25,313","23,712","19,823",0.852,0.004
+Greenwood,City,Johnson County,18,29898,2023 Data Harvest,28.61,"63,830","49,791","35,767",0.621,0.008
+Holland,Town,Dubois County,18,34294,2023 Data Harvest,0.361,619,626,710,0.056,0
+Huntingburg,City,Dubois County,18,35284,2023 Data Harvest,5.313,"6,362","6,057","5,577",0.321,0.001
+Jasper,City,Dubois County,18,37782,2023 Data Harvest,13.428,"16,703","15,038","11,966",0.619,0.004
+Kendallville,City,Noble County,18,39402,2023 Data Harvest,6.21,"10,271","9,862","9,450",0.418,0.002
+Ligonier,City,Noble County,18,43686,2023 Data Harvest,2.797,"4,568","4,405","4,539",0.225,0.001
+Lawrence,City,Marion County,18,42426,2022 Data Harvest,20.233,"49,370","46,001","39,237",0.412,0.006
+Trafalgar,Town,Johnson County,18,76310,2023 Data Harvest,2.553,"1,422","1,101",825,0.125,0.001
+Whiteland,Town,Johnson County,18,83816,2023 Data Harvest,5.443,"4,599","4,169","3,822",0.395,0.001
+Speedway,Town,Marion County,18,71828,2022 Data Harvest,4.739,"13,952","11,812","12,852",0.261,0.001
+Southport,City,Marion County,18,71486,2023 Census Boundaries,0.616,"2,123","1,712","1,948",0.063,0
+Frankfort,City,Clinton County,18,25324,2023 Census Boundaries,8.049,"16,715","16,422","16,660",0.435,0.002
+Carbon,Town,Clay County,18,10198,2023 Census Boundaries,0.149,263,397,340,0.038,0
+Winamac,Town,Pulaski County,18,84734,2023 Census Boundaries,1.36,"2,318","2,490","2,416",0.119,0
+Wingate,Town,Montgomery County,18,84914,2023 Census Boundaries,0.193,237,263,318,0.05,0
+New Whiteland,Town,Johnson County,18,53874,2023 Data Harvest,1.448,"5,550","5,472","4,725",0.158,0
+Rome City,Town,Noble County,18,65808,2023 Data Harvest,2.463,"1,322","1,361","1,675",0.299,0.001
+State Line City,Town,Warren County,18,72764,2023 Census Boundaries,0.139,120,143,134,0.03,0
+Indianapolis,City,Marion County,18,36003,2022 Data Harvest,367.772,"887,642","820,445","781,926",2.722,0.1
+Advance,Town,Boone County,18,640,2024 Data Harvest,0.595,503,477,564,0.058,0
+Akron,Town,Fulton County,18,748,2024 Data Harvest,0.541,"1,125","1,167","1,044",0.064,0
+Alamo,Town,Montgomery County,18,784,2024 Data Harvest,0.062,66,66,108,0.017,0
+Albany,Town,Delaware County,18,802,2024 Data Harvest,1.927,"2,295","2,165","2,374",0.188,0.001
+Alexandria,City,Madison County,18,910,2024 Data Harvest,3.021,"5,149","5,145","6,716",0.316,0.001
+Alfordsville,Town,Daviess County,18,964,2024 Data Harvest,0.066,65,101,124,0.022,0
+Alton,Town,Crawford County,18,1270,2024 Data Harvest,0.141,29,55,53,0.032,0
+Altona,Town,Dekalb County,18,1288,2024 Data Harvest,0.203,213,197,200,0.045,0
+Ambia,Town,Benton County,18,1342,2024 Data Harvest,0.153,227,239,194,0.029,0
+Amboy,Town,Miami County,18,1360,2024 Data Harvest,0.34,317,384,354,0.063,0
+Amo,Town,Hendricks County,18,1450,2024 Data Harvest,0.624,408,401,404,0.072,0
+Anderson,City,Madison County,18,1468,2024 Data Harvest,41.767,"54,788","56,129","59,636",1.139,0.011
+Andrews,Town,Huntington County,18,1612,2024 Data Harvest,0.641,"1,048","1,149","1,337",0.097,0
+Angola,City,Steuben County,18,1666,2024 Data Harvest,6.633,"9,340","8,612","7,374",0.429,0.002
+Arcadia,Town,Hamilton County,18,1954,2024 Data Harvest,0.562,"1,515","1,666","1,752",0.09,0
+Argos,Town,Marshall County,18,2044,2024 Data Harvest,1.293,"1,777","1,691","1,595",0.143,0
+Ashley,Town,Dekalb/Steuben County,18,2458,2024 Data Harvest,1.892,"1,026",983,"1,026",0.196,0.001
+Atlanta,Town,Hamilton County,18,2602,2024 Data Harvest,0.313,712,725,715,0.048,0
+Attica,City,Fountain County,18,2620,2024 Data Harvest,2.552,"3,036","3,245","3,517",0.193,0
+Auburn,City,Dekalb County,18,2674,2024 Data Harvest,8.09,"13,412","12,731","12,068",0.515,0.002
+Aurora,City,Dearborn County,18,2782,2024 Data Harvest,3.523,"3,479","3,750","3,921",0.374,0.001
+Austin,City,Scott County,18,2800,2024 Data Harvest,2.665,"4,064","4,295","4,716",0.217,0.001
+Avon,Town,Hendricks County,18,2908,2024 Data Harvest,19.725,"21,474","12,446","5,840",1.62,0.005
+Bainbridge,Town,Putnam County,18,3142,2024 Data Harvest,0.4,684,746,790,0.055,0
+Batesville,City,Ripley/Franklin County,18,3664,2024 Data Harvest,5.886,"7,202","6,520","6,059",0.713,0.002
+Battle Ground,Town,Tippecanoe County,18,3718,2024 Data Harvest,1.024,"1,838","1,334","1,359",0.144,0
+Bedford,City,Lawrence County,18,4114,2024 Data Harvest,11.982,"13,792","13,413","13,880",0.269,0.003
+Berne,City,Adams County,18,4888,2024 Data Harvest,2.344,"4,173","3,999","4,230",0.217,0.001
+Bethany,Town,Morgan County,18,4978,2024 Data Harvest,0.068,95,81,94,0.018,0
+Beverly Shores,Town,Porter County,18,5158,2024 Data Harvest,3.78,599,613,672,0.205,0.001
+Bicknell,City,Knox County,18,5176,2024 Data Harvest,1.322,"3,029","2,915","3,424",0.166,0
+Bloomfield,Town,Greene County,18,5716,2024 Data Harvest,1.322,"2,289","2,405","2,497",0.194,0
+Bloomingdale,Town,Parke County,18,5788,2024 Data Harvest,0.571,269,335,293,0.052,0
+Bloomington,City,Monroe County,18,5860,2024 Data Harvest,23.423,"79,168","80,405","69,229",0.832,0.006
+Blountsville,Town,Henry County,18,5896,2024 Data Harvest,0.114,98,134,180,0.029,0
+Bluffton,City,Wells County,18,6220,2024 Data Harvest,8.607,"10,308","9,897","9,645",0.4,0.002
+Boonville,City,Warrick County,18,6616,2024 Data Harvest,5.928,"6,712","6,246","7,029",0.356,0.002
+Borden,Town,Clark County,18,6634,2024 Data Harvest,1.748,786,808,911,0.225,0
+Boston,Town,Wayne County,18,6652,2024 Data Harvest,0.218,150,138,198,0.031,0
+Boswell,Town,Benton County,18,6706,2024 Data Harvest,0.474,800,778,846,0.048,0
+Bourbon,Town,Marshall County,18,6760,2024 Data Harvest,1.141,"1,698","1,810","1,710",0.176,0
+Brazil,City,Clay County,18,7174,2024 Data Harvest,3.001,"8,181","7,912","8,337",0.215,0.001
+Bremen,Town,Marshall County,18,7318,2024 Data Harvest,2.894,"4,696","4,588","4,580",0.228,0.001
+Bristol,Town,Elkhart County,18,7750,2024 Data Harvest,4.62,"1,789","1,602","1,382",0.352,0.002
+Brook,Town,Newton County,18,7966,2024 Data Harvest,0.684,939,997,"1,061",0.065,0
+Brooklyn,Town,Morgan County,18,8038,2024 Data Harvest,1.012,"2,511","1,598","1,572",0.118,0
+Brooksburg,Town,Jefferson County,18,8092,2024 Data Harvest,0.112,72,81,74,0.024,0
+Brookston,Town,White County,18,8146,2024 Data Harvest,0.624,"1,631","1,554","1,725",0.096,0
+Brownsburg,Town,Hendricks County,18,8416,2024 Data Harvest,17.023,"28,973","21,285","14,344",1.211,0.005
+Brownstown,Town,Jackson County,18,8470,2024 Data Harvest,1.623,"3,025","2,947","3,034",0.137,0
+Bruceville,Town,Knox County,18,8578,2024 Data Harvest,0.342,450,478,451,0.057,0
+Bryant,Town,Jay County,18,8704,2024 Data Harvest,0.326,239,252,297,0.05,0
+Bunker Hill,Town,Miami County,18,9136,2024 Data Harvest,0.382,814,888,980,0.085,0
+Burket,Town,Kosciusko County,18,9226,2024 Data Harvest,0.071,123,195,199,0.018,0
+Burlington,Town,Carroll County,18,9244,2024 Data Harvest,0.612,517,603,438,0.109,0
+Burnettsville,Town,White County,18,9316,2024 Data Harvest,0.741,390,346,378,0.106,0
+Burns Harbor,Town,Porter County,18,9370,2024 Data Harvest,6.411,"2,055","1,156",782,0.266,0.002
+Butler,City,Dekalb County,18,9532,2024 Data Harvest,2.028,"2,635","2,684","2,727",0.166,0.001
+Cadiz,Town,Henry County,18,9712,2024 Data Harvest,0.145,163,150,160,0.04,0
+Cambridge City,Town,Wayne County,18,9874,2024 Data Harvest,1.014,"1,751","1,870","2,135",0.101,0
+Camden,Town,Carroll County,18,9910,2024 Data Harvest,0.251,593,611,595,0.054,0
+Campbellsburg,Town,Washington County,18,10000,2024 Data Harvest,1.007,529,585,549,0.066,0
+Cannelburg,Town,Daviess County,18,10090,2024 Data Harvest,0.207,176,135,121,0.042,0
+Cannelton,City,Perry County,18,10108,2024 Data Harvest,1.922,"1,524","1,563","1,220",0.166,0.001
+Carlisle,Town,Sullivan County,18,10270,2024 Data Harvest,0.461,625,692,"2,553",0.059,0
+Carmel,City,Hamilton County,18,10342,2024 Data Harvest,50.049,"99,757","79,191","37,802",0.599,0.014
+Carthage,Town,Rush County,18,10612,2024 Data Harvest,0.526,918,927,934,0.102,0
+Cayuga,Town,Vermillion County,18,10954,2024 Data Harvest,1.028,952,"1,162","1,090",0.1,0
+Cedar Grove,Town,Franklin County,18,11044,2024 Data Harvest,0.154,150,156,182,0.035,0
+Cedar Lake,Town,Lake County,18,11062,2024 Data Harvest,10.643,"14,106","11,560","9,196",0.434,0.003
+Center Point,Town,Clay County,18,11746,2024 Data Harvest,0.759,213,242,283,0.058,0
+Centerville,Town,Wayne County,18,11836,2024 Data Harvest,3.542,"2,748","2,552","2,476",0.277,0.001
+Chalmers,Town,White County,18,11944,2024 Data Harvest,0.32,523,508,501,0.06,0
+Chandler,Town,Warrick County,18,12034,2024 Data Harvest,2.971,"3,693","2,887","2,951",0.267,0.001
+Charlestown,City,Clark County,18,12124,2024 Data Harvest,12.154,"7,775","7,585","6,038",0.601,0.003
+Chesterfield,Town,Madison/Delaware County,18,12376,2024 Data Harvest,1.335,"2,490","2,547","3,025",0.209,0
+Chesterton,Town,Porter County,18,12412,2024 Data Harvest,9.528,"14,241","13,068","10,434",0.702,0.003
+Chrisney,Town,Spencer County,18,12574,2024 Data Harvest,0.734,465,481,554,0.136,0
+Churubusco,Town,Whitley County,18,12610,2024 Data Harvest,1.061,"1,870","1,796","1,665",0.108,0
+Cicero,Town,Hamilton County,18,12628,2024 Data Harvest,2.272,"5,301","4,812","3,990",0.255,0.001
+Clarks Hill,Town,Tippecanoe County,18,12898,2024 Data Harvest,0.272,600,611,703,0.038,0
+Clarksville,Town,Clark County,18,12934,2024 Data Harvest,10.106,"22,333","21,724","21,494",0.569,0.003
+Clay City,Town,Clay County,18,13276,2024 Data Harvest,0.543,878,861,"1,033",0.058,0
+Claypool,Town,Kosciusko County,18,13312,2024 Data Harvest,0.253,396,431,317,0.052,0
+Clayton,Town,Hendricks County,18,13366,2024 Data Harvest,0.646,908,972,737,0.078,0
+Clear Lake,Town,Steuben County,18,13438,2024 Data Harvest,2.442,354,339,274,0.165,0.001
+Clermont,Town,Marion County,18,13492,2024 Data Harvest,0.668,"1,384","1,356","1,468",0.08,0
+Clifford,Town,Bartholomew County,18,13582,2024 Data Harvest,0.088,205,233,271,0.02,0
+Clinton,City,Vermillion County,18,13780,2024 Data Harvest,2.053,"4,831","4,893","5,134",0.185,0.001
+Cloverdale,Town,Putnam County,18,13852,2024 Data Harvest,3.549,"2,060","2,172","2,253",0.22,0.001
+Coatesville,Town,Hendricks County,18,14050,2024 Data Harvest,0.664,555,523,531,0.065,0
+Colfax,Town,Clinton County,18,14284,2024 Data Harvest,0.364,702,691,776,0.067,0
+Columbia City,City,Whitley County,18,14716,2024 Data Harvest,5.878,"9,892","8,750","7,136",0.35,0.002
+Columbus,City,Bartholomew County,18,14734,2024 Data Harvest,29.358,"50,474","44,061","39,137",1.513,0.008
+Connersville,City,Fayette County,18,14932,2024 Data Harvest,7.178,"13,324","13,481","15,412",0.427,0.002
+Converse,Town,Miami/Grant County,18,14986,2024 Data Harvest,0.904,"1,161","1,265","1,156",0.16,0
+Corunna,Town,Dekalb County,18,15220,2024 Data Harvest,0.179,236,254,230,0.044,0
+Corydon,Town,Harrison County,18,15256,2024 Data Harvest,1.57,"3,153","3,122","2,909",0.226,0
+Country Club Heights,Town,Madison County,18,15364,2024 Data Harvest,0.293,98,79,91,0.038,0
+Covington,City,Fountain County,18,15490,2024 Data Harvest,1.418,"2,668","2,645","2,566",0.152,0
+Crandall,Town,Harrison County,18,15634,2024 Data Harvest,0.108,134,152,157,0.029,0
+Crane,Town,Martin County,18,15652,2024 Data Harvest,0.142,166,184,193,0.029,0
+Crawfordsville,City,Montgomery County,18,15742,2024 Data Harvest,9.981,"16,306","15,915","15,253",0.611,0.003
+Crothersville,Town,Jackson County,18,16084,2024 Data Harvest,1.159,"1,509","1,591","1,559",0.133,0.001
+Crown Point,City,Lake County,18,16138,2024 Data Harvest,19.035,"33,899","27,317","19,567",0.869,0.005
+Crows Nest,Town,Marion County,18,16156,2024 Data Harvest,0.4,67,73,96,0.054,0
+Culver,Town,Marshall County,18,16300,2024 Data Harvest,1.035,"1,129","1,353","1,544",0.152,0
+Cumberland,Town,Hancock/Marion County,18,16336,2024 Data Harvest,2.85,"5,954","5,169","5,384",0.298,0.001
+Cynthiana,Town,Posey County,18,16534,2024 Data Harvest,0.385,552,545,691,0.058,0
+Dale,Town,Spencer County,18,16624,2024 Data Harvest,2.425,"1,544","1,593","1,574",0.232,0.001
+Daleville,Town,Delware County,18,16642,2024 Data Harvest,2.133,"1,651","1,647","1,592",0.182,0.001
+Dana,Town,Vermillion County,18,16732,2024 Data Harvest,0.345,555,608,658,0.045,0
+Danville,Town,Hendricks County,18,16804,2024 Data Harvest,9.808,"10,559","9,001","6,362",0.861,0.003
+Darlington,Town,Montgomery County,18,16840,2024 Data Harvest,0.334,711,843,879,0.066,0
+Darmstadt,Town,Vanderburgh County,18,16858,2024 Data Harvest,4.579,"1,373","1,407","1,301",0.151,0.001
+Dayton,Town,Tippecanoe County,18,17002,2024 Data Harvest,1.148,"1,330","1,420","1,108",0.11,0
+Decatur,City,Adams County,18,17074,2024 Data Harvest,6.123,"9,913","9,405","9,460",0.565,0.002
+Decker,Town,Knox County,18,17110,2024 Data Harvest,0.179,199,249,277,0.04,0
+Delphi,City,Carroll County,18,17614,2024 Data Harvest,2.626,"2,961","2,893","2,960",0.219,0.001
+DeMotte,Town,Jasper County,18,17722,2024 Data Harvest,3.578,"4,168","3,814","3,229",0.228,0.001
+Denver,Town,Miami County,18,17776,2024 Data Harvest,0.268,478,482,590,0.061,0
+Dillsboro,Town,Dearborn County,18,18190,2024 Data Harvest,1.35,"1,360","1,327","1,410",0.155,0
+Dublin,Town,Wayne County,18,18766,2024 Data Harvest,0.529,679,790,733,0.072,0
+Dugger,Town,Sullivan County,18,18892,2024 Data Harvest,0.605,797,920,949,0.06,0
+Dune Acres,Town,Porter County,18,18982,2024 Data Harvest,2.168,234,182,193,0.142,0.001
+Dunkirk,City,Jay/Blackford County,18,19054,2024 Data Harvest,1.189,"2,164","2,362","2,704",0.123,0
+Dunreith,Town,Henry County,18,19162,2024 Data Harvest,0.124,171,177,170,0.034,0
+Dupont,Town,Jefferson County,18,19180,2024 Data Harvest,1.021,343,339,383,0.07,0
+Dyer,Town,Lake County,18,19270,2024 Data Harvest,6.146,"16,517","16,390","13,856",0.235,0.002
+Earl Park,Town,Benton County,18,19450,2024 Data Harvest,0.888,370,348,489,0.067,0
+East Chicago,City,Lake County,18,19486,2024 Data Harvest,14.789,"26,370","29,698","32,414",0.391,0.004
+East Germantown,Town,Wayne County,18,19756,2024 Data Harvest,0.117,261,410,229,0.031,0
+Eaton,Town,Delaware County,18,20080,2024 Data Harvest,3.774,"1,595","1,805","1,589",0.21,0.001
+Economy,Town,Wayne County,18,20152,2024 Data Harvest,0.089,145,187,194,0.031,0
+Edgewood,Town,Madison County,18,20332,2024 Data Harvest,0.804,"2,053","1,913","2,020",0.1,0
+Edinburgh,Town,Johnson/Bartholomew/Shelby County,18,20404,2024 Data Harvest,3.891,"4,435","4,480","4,637",0.166,0
+Edwardsport,Town,Knox County,18,20458,2024 Data Harvest,0.278,286,303,360,0.067,0
+Elberfeld,Town,Warrick County,18,20638,2024 Data Harvest,0.28,644,625,624,0.06,0
+Elizabeth,Town,Harrison County,18,20674,2024 Data Harvest,0.261,199,162,137,0.066,0
+Elizabethtown,Town,Bartholomew County,18,20692,2024 Data Harvest,0.262,406,504,393,0.054,0
+Elkhart,City,Elkhart County,18,20728,2024 Data Harvest,28.898,"53,923","50,949","51,701",1.776,0.008
+Ellettsville,Town,Monroe County,18,20800,2024 Data Harvest,5.171,"6,655","6,378","5,173",0.605,0.001
+Elnora,Town,Daviess County,18,20998,2024 Data Harvest,0.975,631,640,721,0.071,0
+Elwood,City,Madison/Tipton County,18,21070,2024 Data Harvest,4.006,"8,410","8,614","9,455",0.381,0.001
+English,Town,Crawford County,18,21214,2024 Data Harvest,1.062,685,645,728,0.163,0.001
+Etna Green,Town,Kosciusko County,18,21502,2024 Data Harvest,0.495,570,586,655,0.117,0
+Evansville,City,Vanderburgh County,18,22000,2024 Data Harvest,47.797,"117,298","117,429","121,877",0.786,0.013
+Fairland,Town,Shelby County,18,22396,2024 Data Harvest,1.151,542,315,,0.097,0
+Fairmount,Town,Grant County,18,22432,2024 Data Harvest,1.525,"2,682","2,954","2,865",0.135,0
+Fairview Park,Town,Vermillion County,18,22576,2024 Data Harvest,0.923,"1,409","1,386","1,517",0.082,0
+Farmersburg,Town,Sullivan County,18,22738,2024 Data Harvest,0.749,"1,069","1,118","1,206",0.087,0
+Farmland,Town,Randolph County,18,22792,2024 Data Harvest,0.516,"1,270","1,333","1,444",0.095,0
+Fillmore,Town,Putnam County,18,23188,2024 Data Harvest,1.947,532,533,525,0.091,0
+Fishers,City,Hamilton County,18,23278,2024 Data Harvest,38.273,"98,977","76,794","38,937",2.118,0.01
+Flora,Town,Carroll County,18,23692,2024 Data Harvest,1.134,"2,094","2,036","2,190",0.13,0
+Fort Branch,Town,Gibson County,18,24250,2024 Data Harvest,1.09,"2,965","2,771","2,321",0.096,0
+Fort Wayne,City,Allen County,18,25000,2024 Data Harvest,110.98,"263,886","253,691","205,941",1.684,0.031
+Fortville,Town,Hancock County,18,24286,2024 Data Harvest,3.608,"4,784","3,929","3,449",0.373,0.001
+Fountain City,Town,Wayne County,18,25090,2024 Data Harvest,0.264,714,796,723,0.051,0
+Fowler,Town,Benton County,18,25180,2024 Data Harvest,1.405,"2,337","2,317","2,407",0.112,0
+Fowlerton,Town,Grant County,18,25198,2024 Data Harvest,0.199,268,261,291,0.045,0
+Francesville,Town,Pulaski County,18,25288,2024 Data Harvest,0.33,852,879,888,0.052,0
+Francisco,Town,Gibson County,18,25306,2024 Data Harvest,0.61,545,469,525,0.088,0
+Frankton,Town,Madison County,18,25702,2024 Data Harvest,1.059,"1,775","1,862","1,909",0.112,0
+Fremont,Town,Steuben County,18,25882,2024 Data Harvest,3.111,"2,034","2,138","1,699",0.189,0.001
+French Lick,Town,Orange County,18,25972,2024 Data Harvest,2.057,"1,722","1,807","1,883",0.173,0.001
+Fulton,Town,Fulton County,18,26152,2024 Data Harvest,0.184,303,333,334,0.039,0
+Galveston,Town,Cass County,18,26242,2024 Data Harvest,0.488,"1,288","1,311","1,569",0.078,0
+Garrett,City,Dekalb County,18,26386,2024 Data Harvest,4.155,"6,542","6,286","5,896",0.307,0.001
+Gary,City,Lake County,18,27000,2024 Data Harvest,50.593,"69,093","80,294","102,746",0.66,0.014
+Gas City,City,Grant County,18,27054,2024 Data Harvest,4.625,"6,157","5,965","5,998",0.389,0.001
+Gaston,Town,Delaware County,18,27072,2024 Data Harvest,0.362,796,871,"1,002",0.061,0
+Geneva,Town,Adams County,18,27216,2024 Data Harvest,1.226,"1,257","1,293","1,381",0.13,0
+Gentryville,Town,Spencer County,18,27270,2024 Data Harvest,0.395,243,268,250,0.056,0
+Georgetown,Town,Floyd County,18,27324,2024 Data Harvest,2.185,"3,805","2,876","2,216",0.272,0.001
+Glenwood,Town,Rush County,18,28062,2024 Data Harvest,0.142,245,250,308,0.032,0
+Goodland,Town,Newton County,18,28332,2024 Data Harvest,0.76,980,"1,043","1,091",0.085,0
+Goshen,City,Elkhart County,18,28386,2024 Data Harvest,18.196,"34,517","31,719","29,288",0.907,0.005
+Gosport,Town,Owen County,18,28440,2024 Data Harvest,0.367,842,826,702,0.05,0
+Grabill,Town,Allen County,18,28494,2024 Data Harvest,0.654,"1,112","1,053","1,131",0.078,0
+Grandview,Town,Spencer County,18,28692,2024 Data Harvest,0.96,698,749,708,0.084,0
+Greencastle,City,Putnam County,18,29358,2024 Data Harvest,5.259,"9,820","10,326","9,615",0.253,0.001
+Greendale,City,Dearborn County,18,29448,2024 Data Harvest,5.731,"4,602","4,520","4,264",0.283,0.002
+Greenfield,City,Hancock County,18,29520,2024 Data Harvest,14.324,"23,488","20,602","14,545",0.686,0.004
+Greens Fork,Town,Wayne County,18,29754,2024 Data Harvest,0.141,335,423,384,0.037,0
+Greensboro,Town,Henry County,18,29682,2024 Data Harvest,0.111,123,143,182,0.028,0
+Greensburg,City,Decatur County,18,29718,2024 Data Harvest,9.062,"12,312","11,492","10,321",0.784,0.003
+Greentown,Town,Howard County,18,29772,2024 Data Harvest,1.382,"2,370","2,415","2,611",0.196,0
+Greenville,Town,Floyd County,18,29844,2024 Data Harvest,0.9,"1,365",595,620,0.18,0
+Griffin,Town,Posey County,18,30024,2024 Data Harvest,0.065,143,172,145,0.02,0
+Griffith,Town,Lake County,18,30042,2024 Data Harvest,7.767,"16,528","16,893","17,332",0.254,0.002
+Hagerstown,Town,Wayne County,18,30402,2024 Data Harvest,1.322,"1,681","1,787","1,782",0.088,0
+Hamilton,Town,Steuben/Dekalb County,18,30594,2024 Data Harvest,3.023,"1,529","1,532","1,244",0.236,0.001
+Hamlet,Town,Starke County,18,30708,2024 Data Harvest,0.982,773,800,841,0.091,0
+Hammond,City,Lake County,18,31000,2024 Data Harvest,23.863,"77,879","80,830","83,048",0.499,0.007
+Hanover,Town,Jefferson County,18,31216,2024 Data Harvest,2.169,"3,743","3,546","2,866",0.154,0.001
+Hardinsburg,Town,Washington County,18,31396,2024 Data Harvest,2.067,222,248,252,0.101,0.001
+Harmony,Town,Clay County,18,31486,2024 Data Harvest,0.838,677,656,536,0.081,0
+Hartford City,City,Blackford County,18,32242,2024 Data Harvest,3.822,"6,086","6,220","6,938",0.326,0.001
+Hartsville,Town,Bartholomew County,18,32332,2024 Data Harvest,0.326,317,362,362,0.046,0
+Haubstadt,Town,Gibson County,18,32512,2024 Data Harvest,0.72,"1,638","1,577","1,536",0.08,0
+Hazleton,Town,Gibson County,18,32728,2024 Data Harvest,0.345,194,263,290,0.057,0
+Hebron,Town,Porter County,18,32818,2024 Data Harvest,1.977,"3,755","3,724","3,588",0.196,0.001
+Highland,Town,Lake County,18,33466,2024 Data Harvest,6.958,"23,984","23,727","23,546",0.206,0.002
+Hillsboro,Town,Fountain County,18,33862,2024 Data Harvest,0.457,508,538,467,0.044,0
+Hobart,City,Lake County,18,34114,2024 Data Harvest,26.54,"29,752","29,059","25,400",0.467,0.007
+Holton,Town,Ripley County,18,34366,2024 Data Harvest,1.834,417,480,416,0.119,0
+Homecroft,Town,Marion County,18,34420,2024 Data Harvest,0.219,752,722,753,0.041,0
+Hope,Town,Bartholomew County,18,34744,2024 Data Harvest,0.947,"2,099","2,102","2,145",0.111,0
+Hudson,Town,Steuben County,18,35086,2024 Data Harvest,0.676,585,518,610,0.064,0
+Huntertown,Town,Allen County,18,35266,2024 Data Harvest,7.875,"9,141","4,810","1,756",0.475,0.002
+Huntington,City,Huntington County,18,35302,2024 Data Harvest,9.571,"17,022","17,391","17,589",0.372,0.003
+Hymera,Town,Sullivan County,18,35500,2024 Data Harvest,0.706,653,801,814,0.071,0
+Indian Village,Town,St Joseph County,18,36306,2024 Data Harvest,0.09,118,133,140,0.021,0
+Ingalls,Town,Madison County,18,36342,2024 Data Harvest,3.127,"2,223","2,394","1,204",0.462,0.001
+Jamestown,Town,Boone/Hendricks County,18,37692,2024 Data Harvest,0.887,942,958,900,0.153,0
+Jasonville,City,Greene County,18,37764,2024 Data Harvest,1.254,"1,983","2,222","2,482",0.127,0
+Jeffersonville,City,Clark County,18,38358,2024 Data Harvest,33.888,"49,447","44,953","27,463",0.706,0.009
+Jonesboro,City,Grant County,18,38862,2024 Data Harvest,0.791,"1,516","1,756","1,888",0.088,0
+Jonesville,Town,Bartholomew County,18,38916,2024 Data Harvest,0.153,178,177,232,0.038,0
+Kempton,Town,Tipton County,18,39366,2024 Data Harvest,0.155,288,335,397,0.034,0
+Kennard,Town,Henry County,18,39438,2024 Data Harvest,0.424,451,471,433,0.065,0
+Kentland,Town,Newton County,18,39546,2024 Data Harvest,1.312,"1,641","1,748","1,836",0.205,0
+Kewanna,Town,Fulton County,18,39618,2024 Data Harvest,0.555,576,613,601,0.062,0
+Kingman,Town,Fountain County,18,39798,2024 Data Harvest,0.564,559,511,535,0.082,0
+Kingsbury,Town,Laporte County,18,39816,2024 Data Harvest,0.605,190,242,210,0.076,0
+Kingsford Heights,Town,Laporte County,18,39852,2024 Data Harvest,0.906,"1,335","1,435","1,453",0.078,0
+Kirklin,Town,Clinton County,18,39942,2024 Data Harvest,0.415,710,788,783,0.059,0
+Knightstown,Town,Henry County,18,40266,2024 Data Harvest,1.046,"2,140","2,182","2,140",0.138,0
+Knightsville,Town,Clay County,18,40302,2024 Data Harvest,1.037,702,872,640,0.069,0
+Knox,City,Starke County,18,40374,2024 Data Harvest,3.953,"3,662","3,704","3,808",0.005,0
+Kokomo,City,Howard County,18,40392,2024 Data Harvest,36.765,"59,604","45,468","45,967",0.63,0.01
+Kouts,Town,Porter County,18,40518,2024 Data Harvest,1.212,"2,028","1,879","1,698",0.093,0
+La Crosse,Town,Laporte County,18,40662,2024 Data Harvest,0.566,555,551,539,0.081,0
+La Fontaine,Town,Wabash County,18,40842,2024 Data Harvest,0.606,798,875,921,0.092,0
+La Paz,Town,Marshall County,18,42192,2024 Data Harvest,0.381,475,561,504,0.057,0
+La Porte,City,Laporte County,18,42246,2024 Data Harvest,13.159,"22,471","22,053","21,597",0.709,0.004
+Laconia,Town,Harrison County,18,40644,2024 Data Harvest,0.048,73,50,29,0.014,0
+Ladoga,Town,Montgomery County,18,40698,2024 Data Harvest,0.537,"1,081",985,"1,006",0.071,0
+Lafayette,City,Tippecanoe County,18,40788,2024 Data Harvest,30.405,"70,783","67,140","56,244",0.639,0.008
+Lagrange,Town,Lagrange County,18,40860,2024 Data Harvest,1.758,"2,715","2,625","2,956",0.18,0
+Lagro,Town,Wabash County,18,40896,2024 Data Harvest,0.676,349,415,474,0.097,0
+Lake Station,City,Lake County,18,41535,2024 Data Harvest,8.417,"13,235","12,572","13,975",0.338,0.002
+Lakeville,Town,St Joseph County,18,41670,2024 Data Harvest,0.869,879,786,558,0.133,0
+Lanesville,Town,Harrison County,18,42048,2024 Data Harvest,0.933,935,564,621,0.121,0
+Lapel,Town,Madison County,18,42228,2024 Data Harvest,10.365,"2,325","2,068","1,895",0.32,0.003
+Larwill,Town,Whitley County,18,42282,2024 Data Harvest,0.177,273,283,317,0.043,0
+Laurel,Town,Franklin County,18,42372,2024 Data Harvest,0.238,406,512,575,0.015,0
+Lawrenceburg,City,Dearborn County,18,42462,2024 Data Harvest,5.544,"5,129","5,042","4,717",0.314,0.001
+Leavenworth,Town,Crawford County,18,42606,2024 Data Harvest,0.558,289,238,345,0.087,0
+Lebanon,City,Boone County,18,42624,2024 Data Harvest,28.352,"16,662","15,792","14,216",1.664,0.008
+Leesburg,Town,Kosciusko County,18,42678,2024 Data Harvest,0.255,555,555,605,0.048,0
+Leo-Cedarville,Town,Allen County,18,42861,2024 Data Harvest,3.857,"3,624","3,603","2,718",0.163,0.001
+Lewisville,Town,Henry County,18,43074,2024 Data Harvest,0.28,337,366,415,0.067,0
+Liberty,Town,Union County,18,43434,2024 Data Harvest,0.792,"2,000","2,133","2,004",0.087,0
+Linden,Town,Montgomery County,18,44082,2024 Data Harvest,0.39,711,759,707,0.093,0
+Linton,City,Greene County,18,44190,2024 Data Harvest,3.146,"5,133","5,413","5,634",0.191,0.001
+Little York,Town,Washington County,18,44370,2024 Data Harvest,0.873,189,192,173,0.07,0
+Livonia,Town,Washington County,18,44424,2024 Data Harvest,1.213,99,128,103,0.08,0
+Lizton,Town,Hendricks County,18,44442,2024 Data Harvest,0.719,511,488,386,0.123,0
+Logansport,City,Cass County,18,44658,2024 Data Harvest,10.593,"18,366","18,396","19,732",0.657,0.003
+Long Beach,Town,Laporte County,18,44784,2024 Data Harvest,1.081,"1,189","1,179","1,576",0.114,0
+Loogootee,City,Martin County,18,44910,2024 Data Harvest,1.58,"2,601","2,751","2,793",0.095,0
+Losantville,Town,Randolph County,18,45000,2024 Data Harvest,0.371,221,237,298,0.035,0
+Lowell,Town,Lake County,18,45144,2024 Data Harvest,7.089,"10,680","9,276","7,438",0.534,0.002
+Lynn,Town,Randolph County,18,45468,2024 Data Harvest,0.842,954,"1,097","1,146",0.076,0
+Lynnville,Town,Warrick County,18,45486,2024 Data Harvest,1.949,830,888,746,0.145,0.001
+Lyons,Town,Greene County,18,45504,2024 Data Harvest,0.804,625,742,744,0.072,0
+Mackey,Town,Gibson County,18,45774,2024 Data Harvest,0.088,131,106,112,0.046,0
+Macy,Town,Miami County,18,45864,2024 Data Harvest,0.117,199,209,233,0.025,0
+Madison,City,Jefferson County,18,45990,2024 Data Harvest,8.888,"12,357","11,967","12,065",0.426,0.002
+Marengo,Town,Crawford County,18,46746,2024 Data Harvest,0.561,829,828,823,0.125,0
+Marion,City,Grant County,18,46908,2024 Data Harvest,11.793,"28,310","29,948","31,125",0.565,0.003
+Markle,Town,Huntington/Wells County,18,47160,2024 Data Harvest,1.426,"1,071","1,095","1,107",0.163,0
+Markleville,Town,Madison County,18,47178,2024 Data Harvest,0.553,484,528,496,0.14,0
+Marshall,Town,Parke County,18,47322,2024 Data Harvest,0.248,274,324,383,0.05,0
+Martinsville,City,Morgan County,18,47448,2024 Data Harvest,9.231,"11,932","11,828","11,754",0.591,0.003
+Matthews,Town,Grant County,18,47592,2024 Data Harvest,0.47,494,596,583,0.072,0
+Mauckport,Town,Harrison County,18,47628,2024 Data Harvest,0.203,46,81,83,0.05,0
+McCordsville,Town,Hancock County,18,45648,2024 Data Harvest,8.42,"8,503","4,797","1,054",0.441,0.002
+Mecca,Town,Parke County,18,48132,2024 Data Harvest,0.429,263,335,329,0.094,0
+Medaryville,Town,Pulaski County,18,48186,2024 Data Harvest,0.465,559,614,577,0.054,0
+Medora,Town,Jackson County,18,48240,2024 Data Harvest,0.304,635,693,585,0.043,0
+Mellott,Town,Fountain County,18,48294,2024 Data Harvest,0.346,174,197,228,0.044,0
+Mentone,Town,Kosciusko County,18,48402,2024 Data Harvest,0.594,943,"1,001",839,0.078,0
+Meridian Hills,Town,Marion County,18,48456,2024 Data Harvest,1.481,"1,774","1,616","1,727",0.11,0
+Merom,Town,Sullivan County,18,48474,2024 Data Harvest,0.372,208,228,303,0.05,0
+Merrillville,Town,Lake County,18,48528,2024 Data Harvest,33.255,"36,444","35,246","30,712",0.573,0.009
+Michiana Shores,Town,Laporte County,18,48744,2024 Data Harvest,0.352,306,313,281,0.047,0
+Michigan City,City,Laporte County,18,48798,2024 Data Harvest,20.575,"32,075","31,479","32,822",0.704,0.006
+Michigantown,Town,Clinton County,18,48816,2024 Data Harvest,0.272,441,467,421,0.043,0
+Middlebury,Town,Elkhart County,18,48924,2024 Data Harvest,4.595,"3,466","3,420","2,878",0.365,0.001
+Middletown,Town,Henry County,18,49014,2024 Data Harvest,1.168,"2,253","2,322","2,496",0.115,0
+Milan,Town,Ripley County,18,49266,2024 Data Harvest,2.054,"1,823","1,899","1,840",0.181,0.001
+Milford,Town,Kosciusko County,18,49320,2024 Data Harvest,1.521,"1,614","1,562","1,550",0.152,0
+Millersburg,Town,Elkhart County,18,49536,2024 Data Harvest,0.646,957,903,856,0.08,0
+Millhousen,Town,Decatur County,18,49662,2024 Data Harvest,1.177,149,127,147,0.077,0
+Milltown,Town,Crawford/Harrison County,18,49716,2024 Data Harvest,0.962,790,818,925,0.11,0
+Milton,Town,Wayne County,18,49860,2024 Data Harvest,0.27,455,490,629,0.059,0
+Mishawaka,City,St Joseph County,18,49932,2024 Data Harvest,17.007,"51,063","48,252","46,796",1.038,0.005
+Mitchell,City,Lawrence County,18,49950,2024 Data Harvest,3.582,"3,933","4,350","4,501",0.191,0.001
+Modoc,Town,Randolph County,18,50058,2024 Data Harvest,0.28,157,196,199,0.034,0
+Monon,Town,White County,18,50148,2024 Data Harvest,0.881,"1,919","1,777","1,777",0.117,0
+Monroe,Town,Adams County,18,50202,2024 Data Harvest,0.678,885,842,731,0.081,0
+Monroe City,Town,Knox County,18,50526,2024 Data Harvest,0.268,502,545,538,0.043,0
+Monroeville,Town,Allen County,18,50562,2024 Data Harvest,0.777,"1,294","1,235","1,260",0.124,0
+Monrovia,Town,Morgan County,18,50580,2024 Data Harvest,1.758,"1,643","1,063",631,0.15,0.001
+Monterey,Town,Pulaski County,18,50616,2024 Data Harvest,0.195,182,218,243,0.031,0
+Montezuma,Town,Parke County,18,50652,2024 Data Harvest,0.587,921,"1,022","1,189",0.085,0
+Montgomery,Town,Daviess County,18,50688,2024 Data Harvest,1.663,792,343,372,0.112,0
+Monticello,City,White County,18,50760,2024 Data Harvest,3.684,"5,508","5,378","5,622",0.199,0.001
+Montpelier,City,Blackford County,18,50796,2024 Data Harvest,1.51,"1,540","1,805","1,871",0.197,0
+Mooreland,Town,Henry County,18,50940,2024 Data Harvest,0.145,335,375,393,0.043,0
+Moores Hill,Town,Dearborn County,18,50958,2024 Data Harvest,0.46,675,597,636,0.102,0
+Mooresville,Town,Morgan County,18,50976,2024 Data Harvest,6.71,"9,411","9,326","8,961",0.676,0.002
+Morgantown,Town,Morgan County,18,51102,2024 Data Harvest,0.386,"1,014",986,986,0.058,0
+Morocco,Town,Newton County,18,51138,2024 Data Harvest,0.992,"1,081","1,129","1,100",0.109,0
+Morristown,Town,Shelby County,18,51192,2024 Data Harvest,3.241,"1,205","1,218","1,133",0.403,0.001
+Mount Auburn,Town,Wayne County,18,51318,2024 Data Harvest,0.203,129,117,75,0.035,0
+Mount Ayr,Town,Newton County,18,51336,2024 Data Harvest,0.175,117,122,174,0.029,0
+Mount Carmel,Town,Franklin County,18,51354,2024 Data Harvest,0.043,76,86,124,0.019,0
+Mount Etna,Town,Huntington County,18,51408,2024 Data Harvest,0.117,111,94,106,0.029,0
+Mount Summit,Town,Henry County,18,51714,2024 Data Harvest,0.209,342,352,301,0.052,0
+Mount Vernon,City,Posey County,18,51732,2024 Data Harvest,2.882,"6,493","6,687","7,581",0.315,0.001
+Mulberry,Town,Clinton County,18,51840,2024 Data Harvest,0.496,"1,231","1,254","1,404",0.076,0
+Muncie,City,Delaware County,18,51876,2024 Data Harvest,27.57,"65,194","70,085","67,468",0.642,0.008
+Munster,Town,Lake County,18,51912,2024 Data Harvest,7.623,"23,894","23,603","21,511",0.206,0.002
+Napoleon,Town,Ripley County,18,52002,2024 Data Harvest,0.222,236,234,231,0.083,0
+Nappanee,City,Elkhart/Kosciusko County,18,52020,2024 Data Harvest,4.918,"6,949","6,648","6,584",0.445,0.001
+Nashville,Town,Brown County,18,52038,2024 Data Harvest,1.606,"1,256",803,859,0.338,0.001
+New Albany,City,Floyd County,18,52326,2024 Data Harvest,15.518,"37,841","36,372","37,366",0.607,0.004
+New Amsterdam,Town,Harrison County,18,52398,2024 Data Harvest,0.082,12,27,24,0.019,0
+New Carlisle,Town,St Joseph County,18,52704,2024 Data Harvest,2.005,"1,891","1,861","1,458",0.222,0.001
+New Castle,City,Henry County,18,52740,2024 Data Harvest,7.38,"17,396","18,114","17,810",0.503,0.002
+New Chicago,Town,Lake County,18,52776,2024 Data Harvest,0.674,"1,999","2,035","2,155",0.085,0
+New Harmony,Town,Posey County,18,52974,2024 Data Harvest,0.753,690,789,909,0.088,0
+New Haven,City,Allen County,18,52992,2024 Data Harvest,12.752,"15,583","14,794","12,373",0.87,0.004
+New Market,Town,Montgomery County,18,53262,2024 Data Harvest,0.272,559,636,649,0.062,0
+New Middletown,Town,Harrison County,18,53298,2024 Data Harvest,0.033,90,93,77,0.017,0
+New Palestine,Town,Hancock County,18,53352,2024 Data Harvest,2.03,"2,744","2,055","1,258",0.256,0.001
+New Pekin,Town,Washington County,18,53388,2024 Data Harvest,2.405,"1,323","1,401","1,325",0.123,0.001
+New Point,Town,Decatur County,18,53478,2024 Data Harvest,0.282,319,331,290,0.105,0
+New Richmond,Town,Montgomery County,18,53532,2024 Data Harvest,0.192,309,333,339,0.048,0
+New Ross,Town,Montgomery County,18,53550,2024 Data Harvest,0.298,309,347,328,0.041,0
+Newberry,Town,Greene County,18,52524,2024 Data Harvest,0.48,159,193,217,0.053,0
+Newburgh,Town,Warrick County,18,52650,2024 Data Harvest,1.434,"3,344","3,325","3,202",0.189,0
+Newport,Town,Vermillion County,18,53496,2024 Data Harvest,0.849,416,515,553,0.102,0
+Newtown,Town,Fountain County,18,53694,2024 Data Harvest,0.567,217,256,166,0.051,0
+Noblesville,City,Hamilton County,18,54180,2024 Data Harvest,36.425,"69,604","51,969","28,953",2.388,0.01
+North Crows Nest,Town,Marion County,18,54612,2024 Data Harvest,0.05,44,45,42,0.019,0
+North Judson,Town,Starke County,18,54900,2024 Data Harvest,1.255,"1,857","1,772","1,647",0.083,0
+North Liberty,Town,St Joseph County,18,54918,2024 Data Harvest,0.995,"1,623","1,896","1,400",0.123,0
+North Manchester,Town,Wabash County,18,54954,2024 Data Harvest,3.56,"5,277","6,112","6,260",0.21,0.001
+North Salem,Town,Hendricks County,18,55080,2024 Data Harvest,0.309,464,518,582,0.052,0
+North Vernon,City,Jennings County,18,55116,2024 Data Harvest,7.683,"6,608","6,728","6,527",0.401,0.002
+North Webster,Town,Kosciusko County,18,55134,2024 Data Harvest,0.828,998,"1,146","1,060",0.133,0
+Oakland City,City,Gibson County,18,55710,2024 Data Harvest,1.125,"2,279","2,429","2,571",0.14,0
+Oaktown,Town,Knox County,18,55800,2024 Data Harvest,0.274,581,608,640,0.056,0
+Odon,Town,Daviess County,18,56052,2024 Data Harvest,0.937,"1,397","1,354","1,399",0.109,0
+Ogden Dunes,Town,Porter County,18,56088,2024 Data Harvest,0.76,"1,168","1,110","1,312",0.078,0
+Oldenburg,Town,Franklin County,18,56286,2024 Data Harvest,0.428,647,674,640,0.065,0
+Onward,Town,Cass County,18,56664,2024 Data Harvest,0.095,76,100,81,0.021,0
+Oolitic,Town,Lawrence County,18,56682,2024 Data Harvest,0.672,"1,137","1,184","1,169",0.078,0
+Orestes,Town,Madison County,18,56952,2024 Data Harvest,0.453,329,414,370,0.082,0
+Orland,Town,Steuben County,18,57006,2024 Data Harvest,0.648,389,434,365,0.076,0
+Orleans,Town,Orange County,18,57024,2024 Data Harvest,1.774,"2,108","2,142","2,265",0.239,0
+Osceola,Town,St Joseph County,18,57114,2024 Data Harvest,1.349,"2,590","2,463","1,753",0.121,0
+Osgood,Town,Ripley County,18,57132,2024 Data Harvest,1.551,"1,587","1,624","1,673",0.139,0
+Ossian,Town,Wells County,18,57168,2024 Data Harvest,1.8,"3,266","3,289","2,979",0.152,0.001
+Otterbein,Town,Tippecanoe/Benton County,18,57258,2024 Data Harvest,0.878,"1,144","1,262","1,300",0.132,0
+Owensville,Town,Gibson County,18,57528,2024 Data Harvest,0.57,"1,338","1,284","1,318",0.098,0
+Oxford,Town,Benton County,18,57546,2024 Data Harvest,0.538,"1,165","1,162","1,289",0.072,0
+Palmyra,Town,Harrison County,18,57726,2024 Data Harvest,1.212,898,930,602,0.13,0
+Paoli,Town,Orange County,18,57780,2024 Data Harvest,3.748,"3,666","3,677","3,845",0.18,0.001
+Paragon,Town,Morgan County,18,57870,2024 Data Harvest,0.268,556,659,665,0.053,0
+Parker City,Town,Randolph County,18,57978,2024 Data Harvest,0.566,"1,278","1,419","1,447",0.069,0
+Patoka,Town,Gibson County,18,58320,2024 Data Harvest,1.215,706,735,816,0.142,0
+Patriot,Town,Switzerland County,18,58392,2024 Data Harvest,0.266,201,209,212,0.037,0
+Pendleton,Town,Madison County,18,58662,2024 Data Harvest,13.433,"4,717","4,253","3,483",0.596,0.004
+Pennville,Town,Jay County,18,58788,2024 Data Harvest,0.541,621,701,712,0.085,0
+Perrysville,Town,Vermillion County,18,59238,2024 Data Harvest,0.234,456,456,514,0.044,0
+Peru,City,Miami County,18,59328,2024 Data Harvest,5.257,"11,073","11,417","12,862",0.524,0.001
+Petersburg,City,Pike County,18,59364,2024 Data Harvest,1.471,"2,304","2,383","2,556",0.164,0
+Pierceton,Town,Kosciusko County,18,59598,2024 Data Harvest,1.25,928,"1,015",686,0.137,0
+Pine Village,Town,Warren County,18,60084,2024 Data Harvest,0.119,212,217,254,0.023,0
+Pittsboro,Town,Hendricks County,18,60192,2024 Data Harvest,4.33,"3,682","2,928","1,609",0.305,0.001
+Plainfield,Town,Hendricks County,18,60246,2024 Data Harvest,27.011,"34,625","27,631","18,883",1.204,0.007
+Plainville,Town,Daviess County,18,60264,2024 Data Harvest,0.345,499,476,517,0.051,0
+Plymouth,City,Marshall County,18,60822,2024 Data Harvest,7.592,"10,214","10,033","9,707",0.416,0.002
+Poneto,Town,Wells County,18,61020,2024 Data Harvest,0.102,173,166,212,0.027,0
+Portage,City,Porter County,18,61092,2024 Data Harvest,25.836,"37,926","36,828","33,548",0.571,0.007
+Porter,Town,Porter County,18,61164,2024 Data Harvest,6.535,"5,210","4,858","5,062",0.329,0.002
+Portland,City,Jay County,18,61236,2024 Data Harvest,4.875,"6,320","6,223","6,418",0.241,0.001
+Poseyville,Town,Posey County,18,61416,2024 Data Harvest,0.657,966,"1,045","1,217",0.096,0
+Pottawattamie Park,Town,Laporte County,18,61470,2024 Data Harvest,0.27,242,235,301,0.054,0
+Princeton,City,Gibson County,18,62046,2024 Data Harvest,5.469,"8,301","8,644","8,000",0.367,0.001
+Redkey,Town,Jay County,18,63450,2024 Data Harvest,0.854,"1,100","1,353","1,433",0.091,0
+Remington,Town,Jasper County,18,63756,2024 Data Harvest,3.587,"1,356","1,185","1,445",0.287,0.001
+Rensselaer,City,Jasper County,18,63792,2024 Data Harvest,6.724,"5,733","5,859","5,233",0.44,0.002
+Reynolds,Town,White County,18,63918,2024 Data Harvest,0.554,531,533,540,0.053,0
+Richland,Town,Spencer County,18,64206,2024 Data Harvest,0.515,403,425,,0.06,0
+Richmond,City,Wayne County,18,64260,2024 Data Harvest,24.417,"35,720","36,812","39,138",0.819,0.007
+Ridgeville,Town,Randolph County,18,64422,2024 Data Harvest,0.56,688,803,825,0.063,0
+Riley,Town,Vigo County,18,64512,2024 Data Harvest,0.087,238,221,145,0.026,0
+Rising Sun,City,Ohio County,18,64674,2024 Data Harvest,1.522,"2,248","2,304","2,429",0.124,0
+River Forest,Town,Madison County,18,64728,2024 Data Harvest,0.016,26,22,28,0.009,0
+Roachdale,Town,Putnam County,18,64980,2024 Data Harvest,0.506,840,926,982,0.075,0
+Roann,Town,Wabash County,18,64998,2024 Data Harvest,0.233,441,479,394,0.044,0
+Roanoke,Town,Huntington County,18,65016,2024 Data Harvest,1.208,"1,762","1,722","1,495",0.107,0
+Rochester,City,Fulton County,18,65214,2024 Data Harvest,5.631,"6,270","6,218","6,343",0.281,0.002
+Rockport,City,Spencer County,18,65484,2024 Data Harvest,1.687,"1,984","2,270","2,150",0.176,0
+Rockville,Town,Parke County,18,65520,2024 Data Harvest,1.457,"2,510","2,607","2,751",0.127,0
+Rocky Ripple,Town,Marion County,18,65556,2024 Data Harvest,0.268,655,606,704,0.046,0
+Rosedale,Town,Parke County,18,65934,2024 Data Harvest,0.396,636,725,737,0.053,0
+Roseland,Town,St Joseph County,18,65988,2024 Data Harvest,0.369,854,630,"1,815",0.053,0
+Rossville,Town,Clinton County,18,66150,2024 Data Harvest,0.46,"1,508","1,653","1,562",0.078,0
+Royal Center,Town,Cass County,18,66222,2024 Data Harvest,0.554,802,861,849,0.057,0
+Rushville,City,Rush County,18,66438,2024 Data Harvest,3.364,"6,208","6,341","5,943",0.397,0.001
+Russellville,Town,Putnam County,18,66510,2024 Data Harvest,0.201,306,358,362,0.044,0
+Russiaville,Town,Howard County,18,66546,2024 Data Harvest,0.894,"1,319","1,094","1,073",0.124,0
+Salamonia,Town,Jay County,18,67302,2024 Data Harvest,0.738,151,157,164,0.062,0
+Salem,City,Washington County,18,67464,2024 Data Harvest,4.152,"6,371","6,319","5,953",0.325,0.001
+Saltillo,Town,Washington County,18,67626,2024 Data Harvest,1.14,94,92,116,0.071,0
+Sandborn,Town,Knox County,18,67698,2024 Data Harvest,0.375,359,415,461,0.054,0
+Santa Claus,Town,Spencer County,18,68022,2024 Data Harvest,6.898,"2,586","2,481","2,049",0.405,0.002
+Saratoga,Town,Randolph County,18,68058,2024 Data Harvest,0.314,231,254,288,0.038,0
+Schererville,Town,Lake County,18,68220,2024 Data Harvest,15.129,"29,646","29,243","24,825",0.641,0.004
+Schneider,Town,Lake County,18,68238,2024 Data Harvest,0.852,269,277,349,0.101,0
+Scottsburg,City,Scott County,18,68526,2024 Data Harvest,5.514,"7,345","6,747","6,036",0.418,0.001
+Seelyville,Town,Vigo County,18,68652,2024 Data Harvest,0.879,"1,012","1,029","1,161",0.116,0
+Sellersburg,Town,Clark County,18,68670,2024 Data Harvest,7.468,"9,310","6,128","6,246",0.412,0.002
+Selma,Town,Delaware County,18,68706,2024 Data Harvest,0.902,747,866,880,0.152,0
+Seymour,City,Jackson County,18,68832,2024 Data Harvest,12.13,"21,569","17,503","18,008",0.564,0.004
+Shadeland,Town,Tippecanoe County,18,68868,2024 Data Harvest,27.168,"1,757","1,610","1,700",0.358,0.007
+Shamrock Lakes,Town,Blackford County,18,68976,2024 Data Harvest,0.297,222,231,156,0.042,0
+Sharpsville,Town,Tipton County,18,69048,2024 Data Harvest,0.224,553,607,585,0.053,0
+Shelburn,Town,Sullivan County,18,69192,2024 Data Harvest,0.726,"1,107","1,252","1,280",0.127,0
+Shelbyville,City,Shelby County,18,69318,2024 Data Harvest,13.739,"20,067","19,191","17,694",1.19,0.004
+Sheridan,Town,Hamilton County,18,69354,2024 Data Harvest,2.498,"3,106","2,665","2,355",0.381,0.001
+Shipshewana,Town,Lagrange County,18,69480,2024 Data Harvest,1.409,839,658,539,0.169,0
+Shirley,Town,Hancock/Henry County,18,69516,2024 Data Harvest,0.361,819,830,796,0.061,0
+Shoals,Town,Martin County,18,69552,2024 Data Harvest,1.908,677,756,797,0.13,0.001
+Sidney,Town,Kosciusko County,18,69678,2024 Data Harvest,0.13,131,83,185,0.032,0
+Silver Lake,Town,Kosciusko County,18,69768,2024 Data Harvest,0.541,875,915,547,0.116,0
+Somerville,Town,Gibson County,18,70542,2024 Data Harvest,0.361,253,293,349,0.067,0
+South Bend,City,St Joseph County,18,71000,2024 Data Harvest,41.566,"103,453","101,168","107,045",1.279,0.012
+South Whitley,Town,Whitley County,18,71612,2024 Data Harvest,0.883,"1,818","1,751","1,771",0.15,0
+Spencer,Town,Owen County,18,71972,2024 Data Harvest,1.697,"2,454","2,217","2,401",0.209,0
+Spiceland,Town,Henry County,18,72008,2024 Data Harvest,1.365,958,890,760,0.152,0
+Spring Grove,Town,Wayne County,18,72206,2024 Data Harvest,0.304,332,344,412,0.044,0
+Spring Hill,Town,Marion County,18,72232,2024 Data Harvest,0.09,95,98,97,0.024,0
+Spring Lake,Town,Hancock County,18,72296,2024 Data Harvest,0.159,210,218,263,0.028,0
+Springport,Town,Henry County,18,72332,2024 Data Harvest,0.121,131,149,157,0.033,0
+Spurgeon,Town,Pike County,18,72440,2024 Data Harvest,0.176,172,207,222,0.032,0
+St. Joe,Town,Dekalb County,18,66834,2024 Data Harvest,0.333,418,460,482,0.055,0
+St. John,Town,Lake County,18,66852,2024 Data Harvest,12.818,"20,303","14,850","8,396",0.604,0.004
+St. Leon,Town,Dearborn County,18,66978,2024 Data Harvest,6.879,660,678,392,0.213,0.002
+St. Paul,Town,Decatur County,18,67212,2024 Data Harvest,0.188,960,"1,031","1,039",0.069,0
+Staunton,Town,Clay County,18,72782,2024 Data Harvest,0.325,472,534,557,0.059,0
+Stilesville,Town,Hendricks County,18,73178,2024 Data Harvest,0.256,269,316,285,0.042,0
+Stinesville,Town,Monroe County,18,73232,2024 Data Harvest,0.111,203,198,206,0.029,0
+Straughn,Town,Henry County,18,73664,2024 Data Harvest,0.145,259,222,281,0.034,0
+Sullivan,City,Sullivan County,18,74006,2024 Data Harvest,1.932,"4,264","4,249","4,580",0.139,0.001
+Sulphur Springs,Town,Henry County,18,74060,2024 Data Harvest,0.8,331,399,361,0.103,0
+Summitville,Town,Madison County,18,74132,2024 Data Harvest,0.565,989,967,"1,093",0.075,0
+Sunman,Town,Ripley County,18,74168,2024 Data Harvest,1.213,914,"1,049",767,0.15,0
+Swayzee,Town,Grant County,18,74510,2024 Data Harvest,0.443,918,981,970,0.066,0
+Sweetser,Town,Grant County,18,74546,2024 Data Harvest,0.61,"1,075","1,229",901,0.085,0
+Switz City,Town,Greene County,18,74582,2024 Data Harvest,0.199,268,293,317,0.041,0
+Syracuse,Town,Kosciusko County,18,74744,2024 Data Harvest,2.492,"3,079","2,810","3,143",0.206,0.001
+Tell City,City,Perry County,18,75248,2024 Data Harvest,4.462,"7,506","7,272","7,917",0.213,0.001
+Tennyson,Town,Warrick County,18,75302,2024 Data Harvest,0.228,213,279,285,0.057,0
+Terre Haute,City,Vigo County,18,75428,2024 Data Harvest,34.913,"58,389","60,785","59,563",0.88,0.009
+Thorntown,Town,Boone County,18,75626,2024 Data Harvest,0.705,"1,432","1,520","1,538",0.104,0
+Tipton,City,Tipton County,18,75986,2024 Data Harvest,2.632,"5,275","5,106","5,107",0.276,0.001
+Topeka,Town,Lagrange County,18,76184,2024 Data Harvest,1.613,"1,206","1,153","1,160",0.139,0
+Town of Pines,Town,Porter County,18,76256,2024 Data Harvest,2.18,594,708,807,0.121,0.001
+Trail Creek,Town,Laporte County,18,76328,2024 Data Harvest,1.217,"2,060","2,052","2,319",0.074,0
+Troy,Town,Perry County,18,76634,2024 Data Harvest,1.155,347,385,398,0.092,0
+Ulen,Town,Boone County,18,77066,2024 Data Harvest,0.226,114,117,123,0.035,0
+Union City,City,Randolph County,18,77768,2024 Data Harvest,1.774,"3,454","3,584","3,615",0.196,0.001
+Uniondale,Town,Wells County,18,77786,2024 Data Harvest,0.187,271,310,260,0.05,0
+Universal,Town,Vermillion County,18,77912,2024 Data Harvest,0.261,283,362,432,0.064,0
+Upland,Town,Grant County,18,77966,2024 Data Harvest,4.048,"3,821","3,845","3,841",0.312,0.001
+Utica,Town,Clark County,18,78110,2024 Data Harvest,2.656,860,776,580,0.174,0.001
+Valparaiso,City,Porter County,18,78326,2024 Data Harvest,16.712,"34,151","31,730","27,498",0.913,0.005
+Van Buren,Town,Grant County,18,78470,2024 Data Harvest,0.478,790,864,920,0.095,0
+Veedersburg,Town,Fountain County,18,78740,2024 Data Harvest,2.453,"2,098","2,180","2,323",0.128,0.001
+Vera Cruz,Town,Wells County,18,78776,2024 Data Harvest,0.091,72,80,55,0.036,0
+Vernon,Town,Jennings County,18,78902,2024 Data Harvest,0.205,236,318,322,0.034,0
+Versailles,Town,Ripley County,18,78974,2024 Data Harvest,1.526,"2,184","2,113","1,780",0.184,0
+Vevay,Town,Switzerland County,18,79010,2024 Data Harvest,1.619,"1,741","1,683","1,736",0.135,0
+Vincennes,City,Knox County,18,79208,2024 Data Harvest,7.56,"16,759","18,423","18,578",0.505,0.002
+Wabash,City,Wabash County,18,79370,2024 Data Harvest,9.277,"10,440","10,666","11,733",0.52,0.003
+Wakarusa,Town,Elkhart County,18,79478,2024 Data Harvest,2.28,"1,998","1,758","1,590",0.184,0.001
+Walkerton,Town,St Joseph County,18,79694,2024 Data Harvest,1.875,"2,096","2,144","2,317",0.183,0.001
+Wallace,Town,Fountain County,18,79730,2024 Data Harvest,0.143,79,105,109,0.03,0
+Walton,Town,Cass County,18,79964,2024 Data Harvest,0.345,962,"1,049","1,052",0.058,0
+Wanatah,Town,Laporte County,18,80018,2024 Data Harvest,1.399,"1,009","1,048","1,013",0.14,0
+Warren,Town,Huntington County,18,80108,2024 Data Harvest,1.087,"1,182","1,239","1,346",0.141,0
+Warren Park,Town,Marion County,18,80234,2024 Data Harvest,0.441,"1,490","1,480","1,680",0.082,0
+Warsaw,City,Kosciusko County,18,80306,2024 Data Harvest,14.894,"15,804","13,559","12,284",0.743,0.004
+Washington,City,Daviess County,18,80504,2024 Data Harvest,6.707,"12,017","11,509","11,278",0.342,0.002
+Waterloo,Town,Dekalb County,18,81278,2024 Data Harvest,2.12,"2,116","2,242","2,179",0.223,0.001
+Waveland,Town,Montgomery County,18,81458,2024 Data Harvest,0.308,427,420,420,0.068,0
+Waynetown,Town,Montgomery County,18,82052,2024 Data Harvest,0.445,960,958,911,0.053,0
+West Baden Springs,Town,Orange County,18,82376,2024 Data Harvest,1.119,541,574,641,0.113,0
+West College Corner,Town,Union County,18,82556,2024 Data Harvest,0.221,545,676,646,0.043,0
+West Harrison,Town,Dearborn County,18,82790,2024 Data Harvest,0.226,325,289,272,0.049,0
+West Lafayette,City,Tippecanoe County,18,82862,2024 Data Harvest,13.81,"44,595","29,596","28,949",0.491,0.004
+West Lebanon,Town,Warren County,18,82934,2024 Data Harvest,0.615,678,723,766,0.087,0
+West Terre Haute,Town,Vigo County,18,83384,2024 Data Harvest,0.696,"2,157","2,236","2,333",0.065,0
+Westfield,City,Hamilton County,18,82700,2024 Data Harvest,32.946,"46,410","30,068","9,004",1.194,0.009
+Westport,Town,Decatur County,18,83276,2024 Data Harvest,1.151,"1,393","1,379","1,506",0.091,0
+Westville,Town,Laporte County,18,83420,2024 Data Harvest,2.562,"5,257","5,853","2,109",0.215,0.001
+Wheatfield,Town,Jasper County,18,83528,2024 Data Harvest,0.581,904,853,782,0.061,0
+Wheatland,Town,Knox County,18,83564,2024 Data Harvest,0.398,390,480,488,0.046,0
+Whitestown,Town,Boone County,18,84014,2024 Data Harvest,15.711,"10,178","2,867",530,0.643,0.004
+Whitewater,Town,Wayne County,18,84086,2024 Data Harvest,0.079,71,83,78,0.024,0
+Whiting,City,Lake County,18,84122,2024 Data Harvest,1.805,"4,559","4,997","5,137",0.145,0.001
+Wilkinson,Town,Hancock County,18,84302,2024 Data Harvest,0.201,414,449,405,0.082,0
+Williams Creek,Town,Marion County,18,84374,2024 Data Harvest,0.329,430,407,410,0.041,0
+Williamsport,Town,Warren County,18,84410,2024 Data Harvest,1.304,"1,950","1,898","1,952",0.183,0
+Winchester,City,Randolph County,18,84752,2024 Data Harvest,3.36,"4,843","4,935","5,027",0.282,0.001
+Windfall,Town,Tipton County,18,84806,2024 Data Harvest,0.428,696,708,748,0.073,0
+Winfield,Town,Lake County,18,84878,2024 Data Harvest,12.448,"7,181","4,383","2,269",0.31,0.003
+Winona Lake,Town,Kosciusko County,18,84950,2024 Data Harvest,3.435,"5,053","4,908","3,934",0.216,0.001
+Winslow,Town,Pike County,18,84968,2024 Data Harvest,0.582,764,864,873,0.053,0
+Wolcott,Town,White County,18,85058,2024 Data Harvest,0.546,950,"1,001",982,0.065,0
+Wolcottville,Town,Lagrange/Noble County,18,85076,2024 Data Harvest,1.047,"1,004",998,944,0.053,0
+Woodburn,City,Allen County,18,85184,2024 Data Harvest,1.026,"1,551","1,520","1,582",0.126,0
+Woodlawn Heights,Town,Madison County,18,85400,2024 Data Harvest,0.112,91,79,73,0.028,0
+Worthington,Town,Greene County,18,85598,2024 Data Harvest,0.755,"1,393","1,463","1,492",0.101,0
+Wynnedale,Town,Marion County,18,85742,2024 Data Harvest,0.161,215,231,338,0.029,0
+Yeoman,Town,Carroll County,18,85886,2024 Data Harvest,0.123,116,139,96,0.027,0
+Yorktown,Town,Delaware County,18,86084,2024 Data Harvest,8.822,"11,548","9,405","4,834",0.318,0.002
+Zanesville,Town,Allen County,18,86318,2024 Data Harvest,0.295,580,600,602,0.102,0
+Zionsville,Town,Boone County,18,86372,2024 Data Harvest,67.267,"30,603","14,160","8,479",1.316,0.018
